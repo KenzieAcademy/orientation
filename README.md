@@ -1,6 +1,7 @@
 # Self-Engineering Modules
 
 + [Intro to Self-Engineering (Metacognition)](module1.metacognition.md)
++ [Intro to Self-Engineering (Metacognition) v2](DILINGER.module1.metacognition%20(1).md)
 + [Growth vs Fixed Mindset](module2.growthmindset.md)
 + [The Student Identity Trap](module3.identity.md)
 + [A Day in the Life of a Software Engineer](module4.adayinthelife.md)
